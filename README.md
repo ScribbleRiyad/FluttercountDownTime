@@ -14,6 +14,7 @@
     }
  // Then Install Flutter Timer Countdown Package
  // Set The Code Following Ways With Multiple  Conditions
+ {
          TimerCountdown(
                     format: remainingTime!.inMinutes != 30
                         ? CountDownTimerFormat.daysHoursMinutes
@@ -38,3 +39,4 @@
                             fontWeight: FontWeight.bold,
                           ),
                   )
+}
