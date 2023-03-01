@@ -1,8 +1,8 @@
 # FluttercountDownTime
 
 //First Input Time from PickupDate Time Database<br>
-// Then parse the time to  DateTime
-// Calculate The time Difference remainingTime
+// Then parse the time to  DateTime<br>
+// Calculate The time Difference remainingTime<br>
 
 
     getTimeDuration() {
@@ -12,7 +12,7 @@
 
     remainingTime = dateTime.difference(DateTime.now());
     }
- // Then Install Flutter Timer Countdown Package
+ // Then Install Flutter Timer Countdown Package<br>
  // Set The Code Following Ways With Multiple  Conditions
  code{
   
